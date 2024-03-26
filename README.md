@@ -10,9 +10,7 @@
   <h3 align="center">Counterfeit Medicine Authentication System</h3>
 
   <p align="center">
-  The counterfeit medicine authentication system using blockchain is a technology-based solution designed to verify the authenticity of medications and prevent the distribution of counterfeit drugs. This system leverages the benefits of blockchain and IoT technologies to create a more secure and transparent supply chain for pharmaceutical products.
-    <br />
-    <a href="https://github.com/appuabhishek/counterfeit-medicine"><strong>Explore the docs »</strong></a>
+  The counterfeit medicine authentication system using blockchain is a technology-based solution designed to verify the authenticity of medications and prevent the distribution of counterfeit drugs. This system leverages the benefits of blockchain technologies to create a more secure and transparent supply chain for pharmaceutical products.
     <br />
     <br />
     
@@ -101,8 +99,7 @@ Transaction Contract: The Transaction Contract is deployed automatically by the 
 ## 📈 RESULTS
 <img src="images/ganache.png"/>
    <br />
-    <img src="images/home.png"/>
-   <br />
+   
 <img src="images/ownerAdd.png"/>
    <br />
 <img src="images/ownerView.png"/>
